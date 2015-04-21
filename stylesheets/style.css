@@ -6,10 +6,10 @@
 }
 
 .liveDevButtonDetach {
-	background-image: url("../lib/appbar.new.window.svg");
+	background-image: url("../lib/detach.svg");
 }
 .liveDevButtonAttach {
-	background-image: url("../lib/appbar.fullscreen.box.svg");
+	background-image: url("../lib/attach.svg");
 }
 
 .expandEditor {
